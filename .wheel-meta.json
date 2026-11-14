@@ -1,0 +1,22 @@
+{
+  "wheel_id": 897,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-126",
+  "project": "retaining-wall-builders-geelong-red-flags-123c3a4dc3da261abda59",
+  "parent_t1_ref": "retainingwallgeelong-162",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong red flags",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-geelong-red-flags-123c3a4dc3da261abda59/",
+  "tier": "T2",
+  "writeback_nonce": "19b632bd754e2fdc",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-geelong-what-to-expect-773787a35732ff58.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Wall Builders Geelong What to Expect: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
